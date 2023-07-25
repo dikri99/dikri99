@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Panen77</title>
+<Panen77>
 <meta name="description" content="Panen77" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Panen77" />
